@@ -1,0 +1,2 @@
+2026-04-19 13:07:13 | INFO     | models.deployment | Best model saved to '/mnt/d/work2/modern-bert-turkish-news/models/best_model'
+2026-04-19 13:07:13 | INFO     | models.deployment | Model card written to '/mnt/d/work2/modern-bert-turkish-news/models/best_model/README.md'

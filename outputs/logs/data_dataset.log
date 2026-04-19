@@ -1,0 +1,18 @@
+2026-04-19 13:00:38 | INFO     | data.dataset | Loading dataset from 'yedek/data/subset.csv'
+2026-04-19 13:00:38 | INFO     | data.dataset | Loaded 9900 rows, 2 columns
+2026-04-19 13:00:38 | INFO     | data.dataset | After dropping NaN rows: 9900 (removed 0)
+2026-04-19 13:00:39 | INFO     | data.dataset | After deduplication: 9900 (removed 0 duplicates)
+2026-04-19 13:00:39 | INFO     | data.dataset | Applying text preprocessing (lowercase=False, rm_punct=True)
+2026-04-19 13:00:40 | INFO     | data.dataset | Class distribution:
+ label  count   pct  imbalance_ratio
+     0   1100 11.11              1.0
+     1   1100 11.11              1.0
+     2   1100 11.11              1.0
+     3   1100 11.11              1.0
+     4   1100 11.11              1.0
+     5   1100 11.11              1.0
+     6   1100 11.11              1.0
+     7   1100 11.11              1.0
+     8   1100 11.11              1.0
+2026-04-19 13:00:41 | INFO     | data.dataset | Split sizes -> train: 7920 | val: 990 | test: 990
+2026-04-19 13:00:41 | INFO     | data.dataset | Class weights (sqrt_inverse): [1. 1. 1. 1. 1. 1. 1. 1. 1.]

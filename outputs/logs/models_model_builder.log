@@ -1,0 +1,4 @@
+2026-04-19 13:00:41 | INFO     | models.model_builder | Loading tokenizer from 'answerdotai/ModernBERT-base'
+2026-04-19 13:00:42 | INFO     | models.model_builder | Tokenizer vocab size: 50280 | max_length: 512
+2026-04-19 13:00:42 | INFO     | models.model_builder | Loading model 'answerdotai/ModernBERT-base' with 9 labels
+2026-04-19 13:00:43 | INFO     | models.model_builder | Model parameters: 149,611,785 total | 149,611,785 trainable

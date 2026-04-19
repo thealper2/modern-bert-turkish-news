@@ -1,0 +1,5 @@
+2026-04-19 13:00:41 | INFO     | evaluation.visualizations | Class distribution chart saved to '/mnt/d/work2/modern-bert-turkish-news/outputs/visualizations/class_distribution.png'
+2026-04-19 13:07:01 | INFO     | evaluation.visualizations | Training curves saved to '/mnt/d/work2/modern-bert-turkish-news/outputs/visualizations/final_run_training_curves.png'
+2026-04-19 13:07:07 | INFO     | evaluation.visualizations | Confusion matrix saved to '/mnt/d/work2/modern-bert-turkish-news/outputs/visualizations/final_run_normalised_confusion_matrix.png'
+2026-04-19 13:07:08 | INFO     | evaluation.visualizations | Confusion matrix saved to '/mnt/d/work2/modern-bert-turkish-news/outputs/visualizations/final_run_confusion_matrix.png'
+2026-04-19 13:07:08 | INFO     | evaluation.visualizations | Per-class metrics chart saved to '/mnt/d/work2/modern-bert-turkish-news/outputs/visualizations/final_run_per_class_metrics.png'

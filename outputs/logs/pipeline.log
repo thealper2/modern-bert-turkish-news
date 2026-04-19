@@ -1,0 +1,13 @@
+2026-04-19 13:00:38 | INFO     | pipeline | === Step 1: Data Preparation ===
+2026-04-19 13:00:41 | INFO     | pipeline | === Step 2: Skipping hyperparameter search ===
+2026-04-19 13:00:41 | INFO     | pipeline | === Step 3: Final Training ===
+2026-04-19 13:07:01 | INFO     | pipeline | Training complete. Metrics: {'train_runtime': 374.4142, 'train_samples_per_second': 42.306, 'train_steps_per_second': 5.288, 'total_flos': 5395885469158464.0, 'train_loss': 1.0123746361395325, 'epoch': 2.0}
+2026-04-19 13:07:01 | INFO     | pipeline | === Step 4: Training Visualisations ===
+2026-04-19 13:07:01 | INFO     | pipeline | === Step 5: Test Set Evaluation ===
+2026-04-19 13:07:07 | INFO     | pipeline | Evaluation report saved to '/mnt/d/work2/modern-bert-turkish-news/outputs/reports/test_evaluation.json'
+2026-04-19 13:07:08 | INFO     | pipeline | === Step 6: Error Analysis ===
+2026-04-19 13:07:08 | INFO     | pipeline | Error analysis saved to '/mnt/d/work2/modern-bert-turkish-news/outputs/reports/error_analysis.json'
+2026-04-19 13:07:08 | INFO     | pipeline | === Step 7: Saving Best Model ===
+2026-04-19 13:07:13 | INFO     | pipeline | === Pipeline complete! ===
+2026-04-19 13:07:13 | INFO     | pipeline | Test F1 (macro): 0.7754
+2026-04-19 13:07:13 | INFO     | pipeline | Test Balanced Accuracy: 0.7768

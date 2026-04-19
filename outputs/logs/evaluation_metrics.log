@@ -1,0 +1,18 @@
+2026-04-19 13:07:07 | INFO     | evaluation.metrics | Evaluation Results:
+              precision    recall  f1-score   support
+
+           0       0.80      0.75      0.78       110
+           1       0.80      0.70      0.75       110
+           2       0.86      0.97      0.91       110
+           3       0.88      0.89      0.89       110
+           4       0.72      0.74      0.73       110
+           5       0.70      0.72      0.71       110
+           6       0.75      0.73      0.74       110
+           7       0.77      0.81      0.79       110
+           8       0.71      0.68      0.70       110
+
+    accuracy                           0.78       990
+   macro avg       0.78      0.78      0.78       990
+weighted avg       0.78      0.78      0.78       990
+
+2026-04-19 13:07:08 | INFO     | evaluation.metrics | Error analysis: 20 misclassified examples collected
